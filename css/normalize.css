@@ -1,0 +1,27 @@
+/*
+* @Author: lenovo
+* @Date:   2020-06-06 18:05:55
+* @Last Modified by:   lenovo
+* @Last Modified time: 2020-06-06 18:20:56
+*/
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+.clear:after {
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+}
+img{
+	vertical-align: bottom;
+}
